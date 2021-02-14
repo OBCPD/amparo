@@ -10,3 +10,6 @@ This way we could help to prevent thousands of people deaths by hunger in underd
 App technologies - We developed the app using React Native, which is a framework based on the famous React, created by Facebook, and Expo, a framework and platform with a lot of built tools for React Native, by this combination we could quickly develop a complete and multiplatform(Ios and Android) mobile software. We opted for a mobile app due to the accessibility and practicality.
 
 # to install
+Open Node.js, run npm install;
+Install Expo - npm install -g expo-cli
+Run expo start
